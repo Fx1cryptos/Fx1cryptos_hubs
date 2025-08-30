@@ -1,70 +1,109 @@
-# GitHub Codespaces ♥️ React
+# 🌐 FX1 Digital Hubs  
 
-Welcome to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
+🚀 **Blockchain Artist | NFT Creator | Digital Fashion Innovator | Web3 Growth Strategist**  
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
+I’m **FX1 Digital Hubs (FX1)** – a **one-man creative hub** building at the intersection of **art, blockchain, and fashion in the metaverse.**  
+My mission is to **merge culture, creativity, and code** into onchain experiences powered by **$FDH.**  
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+---
 
-This project was bootstrapped for you with [Vite](https://vitejs.dev/).
+## 🖼️ What I Do  
+- 🎨 **NFT Art Creation** → Unique blockchain-secured digital artworks  
+- 👗 **Onchain Fashion** → Designing the next wave of metaverse wearables  
+- 🌍 **Web3 Growth Strategy** → Helping projects thrive in the decentralized space  
+- 🪙 **Token Economy ($FDH)** → The community-powered token driving my ecosystem  
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🔗 Connect With Me  
+- 🌐 Website: [fx1hubs.short.gy](https://fx1hubs.short.gy)  
+- 🟣 Farcaster: [fx1-faucet](https://farcaster.xyz/fx1-faucet)  
+- 💬 Telegram: [FX1 Digital Hubs](https://t.me/fx1digitalhubs)  
+- 🐦 X (Twitter): [@fx1_hubs](https://x.com/fx1_hubs?s=21)  
+- 🎮 Discord: [Join FX1 Hubs](https://discord.gg/gAQFRfdu)  
+- 🎥 TikTok: [@fx1_hubs](https://www.tiktok.com/@fx1_hubs?_t=ZS-8z9q5FXQJjl&_r=1)  
+- 🖌️ Zora: [@fx1_hubs](https://zora.co/@fx1_hubs)  
 
-### `npm start`
+---
 
-We've already run this for you in the `Codespaces: server` terminal window below. If you need to stop the server for any reason you can just run `npm start` again to bring it back online.
+## 💎 Token  
+- 🪙 **$FDH (FX1 Digital Hubs Token)** → [View on Rainbow](https://rainbow.me/token/base/0x1f85705d939Bb6Fa1AEbE99d7105AdCee75CE380)  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000/](http://localhost:3000/) in the built-in Simple Browser (`Cmd/Ctrl + Shift + P > Simple Browser: Show`) to view your running application.
+---
 
-The page will reload automatically when you make changes.\
-You may also see any lint errors in the console.
+## ✨ Vision  
+> To build a **digital-first metaverse culture** where **art, fashion, and blockchain** converge.  
+I believe in empowering **creators and communities** with **onchain expression.**  
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### ⚡ Support & Collaborations  
+If you vibe with my mission → let’s **collaborate, collect, and co-create** in the metaverse.  
+Drop me a DM on any platform above 👆  
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🖤 *FX1 Digital Hubs – Creating the Future, Onchain.*
+<!-- HEADER / BANNER -->
+<p align="center">
+  <img src="https://your-banner-link-here.png" alt="FX1 Digital Hubs Banner" width="100%">
+</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h1 align="center">🌐 FX1 Digital Hubs</h1>
+<p align="center">
+  <b>Blockchain Artist • NFT Creator • Digital Fashion Innovator • Web3 Growth Strategist</b>  
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-## Learn More
+## 🎨 About Me  
+Hi, I’m **FX1 Digital Hubs (FX1)** – a **one-man creative hub** shaping the future of **art, blockchain, and fashion in the metaverse.**  
 
-You can learn more in the [Vite documentation](https://vitejs.dev/guide/).
+✨ My work blends:  
+- 🖼️ **NFT Art** → Blockchain-secured creativity  
+- 👗 **Onchain Fashion** → Wearables & metaverse couture  
+- 🌍 **Web3 Growth** → Strategy for decentralized projects  
+- 🪙 **Token Economy ($FDH)** → My native ecosystem token  
 
-To learn Vitest, a Vite-native testing framework, go to [Vitest documentation](https://vitest.dev/guide/)
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🔗 Connect With Me  
 
-### Code Splitting
+<p align="center">
+  <a href="https://fx1hubs.short.gy"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://farcaster.xyz/fx1-faucet"><img src="https://img.shields.io/badge/Farcaster-6A4DFE?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://t.me/fx1digitalhubs"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://x.com/fx1_hubs?s=21"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://discord.gg/gAQFRfdu"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://zora.co/@fx1_hubs"><img src="https://img.shields.io/badge/Zora-000000?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@fx1_hubs?_t=ZS-8z9q5FXQJjl&_r=1"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+</p>
 
-This section has moved here: [https://sambitsahoo.com/blog/vite-code-splitting-that-works.html](https://sambitsahoo.com/blog/vite-code-splitting-that-works.html)
+---
 
-### Analyzing the Bundle Size
+## 🪙 My Token – $FDH  
 
-This section has moved here: [https://github.com/btd/rollup-plugin-visualizer#rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer#rollup-plugin-visualizer)
+<p align="center">
+  <a href="https://rainbow.me/token/base/0x1f85705d939Bb6Fa1AEbE99d7105AdCee75CE380">
+    <img src="https://img.shields.io/badge/$FDH-Token-blueviolet?style=for-the-badge&logo=ethereum&logoColor=white" />
+  </a>
+</p>
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://dev.to/hamdankhan364/simplifying-progressive-web-app-pwa-development-with-vite-a-beginners-guide-38cf](https://dev.to/hamdankhan364/simplifying-progressive-web-app-pwa-development-with-vite-a-beginners-guide-38cf)
+## ✨ Vision  
+> Building a **digital-first metaverse culture** where **art, fashion, and blockchain** converge.  
+Empowering **creators and communities** with **onchain expression.**
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://vitejs.dev/guide/build.html#advanced-base-options](https://vitejs.dev/guide/build.html#advanced-base-options)
+## 🤝 Collaborate  
+💡 Open to partnerships, collaborations, and metaverse projects.  
+📩 DM me on any platform above 👆  
 
-### Deployment
+---
 
-This section has moved here: [https://vitejs.dev/guide/build.html](https://vitejs.dev/guide/build.html)
+<p align="center">
+  🖤 FX1 Digital Hubs – *Creating the Future, Onchain.*
+</p>
 
-### Troubleshooting
-
-This section has moved here: [https://vitejs.dev/guide/troubleshooting.html](https://vitejs.dev/guide/troubleshooting.html)
